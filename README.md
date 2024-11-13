@@ -12,8 +12,7 @@ I’m a passionate **Data Analyst** who thrives on uncovering insights and creat
 
 ### 🔧 Tools & Technologies  
 - **Programming Languages:** Python, R, SQL, Java  
-- **Visualization Tools:** Tableau, Power BI, ggplot2, Matplotlib  
-- **GIS Tools:** QGIS, ArcGIS  
+- **Visualization Tools:** Tableau (learning), ggplot2
 - **Other Tools:** Excel, Git  
 
 ### 🌍 Current Focus  
