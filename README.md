@@ -9,6 +9,6 @@ I specialize in transforming complex data into actionable insights through stati
 - **Tools:** Tableau (learning), ggplot2, Excel, Git  
 - **Focus:** Data analysis, statistical modeling, and visualization  
 
-### 🌍 Explore My Work [portfolio](https://naokoi0408.github.io/Portfolio/)
+### 🌍 Explore My Work  [portfolio](https://naokoi0408.github.io/Portfolio/)
 Check out my projects on data analysis, visualization, and statistical insights.  
 
