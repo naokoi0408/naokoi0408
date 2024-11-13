@@ -1,25 +1,27 @@
-###👋 Hi, I'm Naoko!
-🎯 Geographical Analyst | Data Enthusiast | Visual Storyteller
+# 👋 Hi, I'm Naoko!  
 
-I specialize in analyzing geographical data to help businesses make informed decisions and target the right markets. With a strong foundation in data analytics and visualization, I enjoy transforming complex data into actionable insights.
+🎯 **Data Analyst | Data Visualization Storyteller | Geographical Analyst**  
 
-🌟 What I Do
-Geographical Analysis: Identifying business opportunities through spatial data.
-Data Visualization: Creating intuitive and impactful visualizations that tell a story.
-Statistical Analysis & Modeling: Uncovering patterns and trends to drive strategy.
-🔧 Tools & Technologies
-Programming: Python, R, SQL, Java
-Data Visualization: Tableau, ggplot2, Matplotlib, Power BI
-GIS Tools: QGIS, ArcGIS
-Other: Excel, Git
-🌍 Current Project
-I'm working on a project that uses geographical data to optimize business targeting strategies. This includes:
+I’m a passionate **Data Analyst** who thrives on uncovering insights and creating visual stories from complex datasets. With a strong background in data analysis and visualization, I enjoy turning raw data into actionable insights that drive decisions. My expertise spans statistical analysis, geographical data exploration, and building intuitive visualizations.  
 
-Mapping potential customer locations
-Analyzing demographic and market trends
-Building dashboards for easy access to insights
-💬 Let's Connect!
-Portfolio: My Website
-LinkedIn: Your LinkedIn
-Email: Your Email
-Feel free to explore my repositories to see my projects and analysis. 🚀
+### 🌟 What I Do  
+- **Data Analysis:** Dive deep into datasets to uncover trends, patterns, and insights.  
+- **Data Visualization:** Transform data into compelling visuals that tell a clear, impactful story.  
+- **Geographical Analysis:** Utilize spatial data to help businesses optimize their strategies.  
+- **Statistical Modeling:** Apply statistical techniques to support data-driven decision-making.  
+
+### 🔧 Tools & Technologies  
+- **Programming Languages:** Python, R, SQL, Java  
+- **Visualization Tools:** Tableau, Power BI, ggplot2, Matplotlib  
+- **GIS Tools:** QGIS, ArcGIS  
+- **Other Tools:** Excel, Git  
+
+### 🌍 Current Focus  
+I’m currently working on projects that leverage geographical data to help businesses target their audiences effectively. My work involves mapping customer data, analyzing demographic trends, and delivering insights through interactive dashboards.  
+
+### 💬 Let’s Connect!  
+- **Portfolio:** [https://naokoi0408.github.io/Portfolio/](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/naoko-ishibashi/](#)  
+- **Email:** [naoko.i@alumni.upenn.edu](mailto:#)  
+
+Feel free to explore my repositories to see my work in data analysis and visualization. 🚀  
