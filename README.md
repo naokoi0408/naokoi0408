@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naoko!  
 
-🎯 **Data Analyst | Data Visualization Storyteller | Geographical Analyst**  
+🎯 **Jr.Data Analyst | Jr.Statistician | Data Visualization Specialist**  
 
 I’m a passionate **Data Analyst** who thrives on uncovering insights and creating visual stories from complex datasets. With a strong background in data analysis and visualization, I enjoy turning raw data into actionable insights that drive decisions. My expertise spans statistical analysis, geographical data exploration, and building intuitive visualizations.  
 
